@@ -1,0 +1,15 @@
+.about-container{
+    margin: 20px 60px;
+
+
+}
+.AboutContent{
+    display: flex;
+    margin-bottom: 30px;
+}
+.aboutText{
+    margin: 5px 20px;
+}
+.about-container h1{
+    font-size: 3rem;
+}

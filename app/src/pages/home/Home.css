@@ -1,0 +1,29 @@
+.HomeContainer{
+    margin-top: 0;
+    width: 100%;
+    background-image: url('../../assets/images/002.png');
+    height: 90vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    
+}
+.HomeText{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 750px;
+    margin-left: 50px;
+    
+}
+.HomeText h1{
+    margin-top: 150px;
+    color:#FF7A40 ;
+    font-size: 3rem;
+}
+.HomeText p {
+    margin-top: 0;
+    color: white;
+    font-size: 18px;
+}

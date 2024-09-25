@@ -1,0 +1,37 @@
+.servicescontainer{
+    margin: 10px 60px;
+}
+.service-content{
+    display: flex;
+    margin-bottom: 30px;
+}
+.service-content img{
+    width: 350px;
+    margin: 0px 30px;
+
+}
+.service-text{
+    
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.servicescontainer h1{
+    font-size: 3rem;
+}
+.whycontainer{
+    display: flex;
+}
+.whyimg{
+    width: 50%;
+}
+.whyimg img{
+    max-width: 550px;
+    
+}
+.whyimg{
+    width: 50%;
+}
+.whytext{
+    margin: 20px;
+}
